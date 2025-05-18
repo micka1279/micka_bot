@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
 import logging
 
-BOT_TOKEN = "7389369003:AAE2cmMX0poh_9krlroyI0Fqty7zAa3uE0Q"
+BOT_TOKEN = "8124078966:AAHMrgjfXK3BsZabmJZ3XA9Ljz6MNoBFleU"
 CHANNELS = ['+Mv0etmH7HGFkMDU0', '@Film_Zone_Fr12425', '@actuality_zone1242', '@Film_Zone_Fr1242']
 
 logging.basicConfig(level=logging.INFO)
