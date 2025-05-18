@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: telegram-bot
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: python bot.py
